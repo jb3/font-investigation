@@ -1,0 +1,5 @@
+git+https://github.com/mindw/ttfquery
+fonttools
+numpy
+scipy
+matplotlib
